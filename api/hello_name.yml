@@ -1,0 +1,15 @@
+raw: "0.10"
+endpoint: GET
+metadata:
+  title: Hello name
+  description: Hello world example
+  tags:
+    - hello-world
+code: snapi
+declaration: hello_name
+codeFile: code.snapi
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
